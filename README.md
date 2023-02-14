@@ -1,4 +1,4 @@
-# Quiz-Challenge
+# Quiz- Geography
  JS application for a geographical quiz
 https://kingali112.github.io/Geography-Quiz/
 USER IS GIVEN Geographical Quiz
