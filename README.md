@@ -1,6 +1,6 @@
 # Quiz-Challenge
  JS application for a geographical quiz
-
+https://kingali112.github.io/Geography-Quiz/
 USER IS GIVEN Geographical Quiz
 WHEN USER  clickS the start button
 THEN a timer starts and THE USER IS presented with a question
